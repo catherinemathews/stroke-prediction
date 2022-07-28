@@ -1,1 +1,2 @@
-# stroke-prediction
+# Stroke-Prediction
+The World Health Organization has found that stroke is the second leading cause of death globally, specifically being responsible for 11% of total deaths. According to the CDC, each year, greater than 795,000 people experience a stroke in the United States Alone. In this project, I perform explanatory data analysis on the Stroke Prediction Dataset from Kaggle and train a model to predict whether a patient is likely to experience a stroke based on several factors, such as gender, age, bmi, and more.
